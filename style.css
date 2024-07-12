@@ -1,0 +1,31 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #f0f0f0;
+}
+
+#calendar {
+  max-width: 900px;
+  margin: 40px auto;
+  padding: 0 10px;
+}
+
+h1{
+  color: rgb(255, 0, 0);
+  text-align: center;
+  margin: 20px
+}
+p{
+  align-self: top;
+  text-align: center;
+  margin: 20px;
+  color: rgb(0, 0, 0);
+}
+body.index{
+  background-color: rgb(251, 251, 251);
+}
